@@ -1,9 +1,8 @@
 <div align="center">
 
   <img src="../logo.png" alt="Verdios Logo" width="400" />
-
-  <h1>VERDIOS</h1>
-
+<br>
+<br>
   <p><strong>High-performance native desktop tools, modern web apps, mobile experiences, and containerized deployments.</strong></p>
 
   <p>
