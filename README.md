@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="../logo.png" alt="Verdios Logo" width="400" />
+  <img src="logo.png" alt="Verdios Logo" width="400" />
 
   <h1>VERDIOS</h1>
 
