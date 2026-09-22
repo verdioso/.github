@@ -4,12 +4,12 @@
 
   <h1>VERDIOS</h1>
 
-  <p><strong>Building high-performance systems, local AI tools, and desktop applications.</strong></p>
+  <p><strong>High-performance native desktop tools, modern web apps, mobile experiences, and containerized deployments.</strong></p>
 
   <p>
     <a href="#-about">About</a> •
-    <a href="#%EF%B8%8F-featured-projects">Projects</a> •
-    <a href="#-tech-stack">Tech Stack</a>
+    <a href="#%EF%B8%8F-focus-areas">Focus Areas</a> •
+    <a href="#-projects">Projects</a>
   </p>
 
 </div>
@@ -17,16 +17,18 @@
 ---
 
 ### 🚀 About
-Verdios focuses on high-efficiency open-source software design, developer tools, and local AI model management.
+Verdios focuses on building high-efficiency, lightweight open-source systems, developer tooling, and self-hosted application suites.
 
-### 🛠️ Featured Projects
+### 🛠️ Focus Areas
+* **💻 Desktop Native Apps:** Lightweight, fast UI applications built for local model management and utility workflows.
+* **🌐 Web Applications:** Modern, highly responsive web apps and developer tools.
+* **📱 Mobile Apps:** Cross-platform mobile tools designed for seamless connectivity and control.
+* **🐳 Docker Compose & Containerization:** Easy-to-deploy self-hosted services and containerized environments.
+
+### 📦 Projects
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **`swai`** | `Rust` | Lightweight CLI and AI integration tooling |
-| **`desktop-switch`** | — | Desktop switch application for managing local AI model deployments |
-
-### ⚡ Tech Stack
-`Linux / Fedora` • `Rust` • `Python` • `Kotlin` • `Local LLMs`
+| **`swai`** | `Rust` | Desktop switch application for managing local AI model deployments |
 
 ---
 
